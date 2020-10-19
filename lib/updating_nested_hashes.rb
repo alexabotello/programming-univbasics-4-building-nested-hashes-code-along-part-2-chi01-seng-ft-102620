@@ -65,10 +65,8 @@ def add_characters
          ]
       }
    }
-  end
 
    # Code your solution here:
-   def add_characters
    epic_tragedy = {
       :montague => {
          :patriarch => {name: "Lord Montague", age: "53"},
@@ -92,5 +90,4 @@ def add_characters
    epic_tragedy[:additional_characters][0]= {name: "Prince Escalus" }
    epic_tragedy[:additional_characters][1]= { name: "Apothecary" }
    epic_tragedy
-end
 end 
