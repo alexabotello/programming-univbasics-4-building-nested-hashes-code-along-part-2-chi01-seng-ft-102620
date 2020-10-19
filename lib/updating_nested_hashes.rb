@@ -66,6 +66,7 @@ def add_characters
          ]
       }
    }
+  end
 
    # Code your solution here:
    def add_characters
